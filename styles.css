@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    position: relative;
+    left: 100px;
+}
+.banner{
+    position: relative;
+  }
+  .banner img{
+    max-width: 100%
+  }
