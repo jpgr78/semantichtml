@@ -3,9 +3,30 @@ h1{
     position: relative;
     left: 100px;
 }
+.welcome,nav{position:relative;top:750px}
 .banner{
     position: relative;
+    
   }
   .banner img{
-    max-width: 100%
+    max-width: 100%;
+    position: absolute;
+    left:60px
   }
+
+  body{
+    background-color: yellow;
+  }
+
+  
+
+main {
+  padding-top: 750px;
+}
+form {
+  top: -15px;
+  position: relative;
+}
+
+footer{position: fixed;
+  top: 800px;}
